@@ -1,7 +1,5 @@
 aiohttp==3.8.3
 antlr4-python3-runtime==4.9.3
-anyio==3.6.1
-APScheduler==3.9.1
 archivebox==0.6.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
